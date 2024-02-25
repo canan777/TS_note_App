@@ -1,4 +1,30 @@
-# filtreleme algoritması
+# TS_note_App
+
+##home page
+
+✅ TS. Note_App Project
+
+📑The project is a note-taking application developed using TypeScript. It leverages the advantages of TypeScript to make the code more robust, readable, and maintainable. 
+
+📈The project provides a user interface where users can add, edit, delete, and search notes. 
+
+📉Thanks to TypeScript's type safety, code errors can be detected at earlier stages, allowing for the development of a more reliable application.
+
+## 📚Libraries:
+
+📍React
+📍React-Router-Dom
+📍React-Select
+📍TypeScript
+📍Uuid
+📍Tailwind
+📍Bootstrap
+
+# TS_note_App
+<img src="./public/TS_note_App.gif"/>
+ 
+ 
+ ## filtreleme algoritması
 
 1) Not başlığı aranan metni içermelidir. Eğer aranan 
    metin boş ise koşul sağlanır. Aksi takdirde note'un başlığının
@@ -15,7 +41,7 @@
 
   ...javascript
    const filtredNotes = notes.filter((note) => {
-  return (
+   return (
     //1) note'un başlığı aratılan metni içeriyorsa note'u döndür
     (title === '' || note.title.toLowerCase().includes(title.toLowerCase())) &&
     //2) seçtiğim etiketlerin tamamı notta varsa note'u döndür
