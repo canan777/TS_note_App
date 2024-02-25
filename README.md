@@ -1,6 +1,6 @@
 # TS_note_App
 
-##home page
+## home page
 
 ✅ TS. Note_App Project
 
@@ -53,4 +53,3 @@
 });
 ...
 
- # TS_note_App
