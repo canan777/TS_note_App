@@ -2,7 +2,7 @@
 
 ## home page
 
-✅ TS. Note_App Project
+✅ TS.Note_App Project
 
 📑The project is a note-taking application developed using TypeScript. It leverages the advantages of TypeScript to make the code more robust, readable, and maintainable. 
 
